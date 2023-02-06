@@ -16,7 +16,7 @@ todos:any;
       this.todos =  res;
       
     });
-    // console.log(this.todos);
+    console.log(this.todos);
   }
 
   
